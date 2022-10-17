@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "IPhone",
+      "description": "IPhone 13 pro max",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "title": "Samsung",
+      "description": "s22 ultra",
+      "price": 1200
+    },
+    {
+      "title": "toshepa",
+      "price": "150",
+      "description": "television",
+      "id": 3
+    }
+  ]
+}
